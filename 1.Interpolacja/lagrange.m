@@ -1,0 +1,1 @@
+Potrzebujesz metody Lagrange'a? Jak nie wychodzi to napisz, pomoge :)
